@@ -41,6 +41,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Shweta Gargade's Stats" src="https://github-readme-stats.vercel.app/api?username=aishweta&show_icons=true&hide_border=true" />
 
+![Shweta's github stats](https://github-readme-stats.vercel.app/api?username=aishweta&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishweta&hide=html&layout=compact&theme=cobalt)](https://github.com/aishweta/github-readme-stats)
+
 [twitter]: https://twitter.com/shwetagargade
 [medium]: https://medium.com/@aishweta
 [linkedin]: https://www.linkedin.com/in/shwetagargade/
