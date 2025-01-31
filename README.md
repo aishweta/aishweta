@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, it's Shweta Pawar 👋. I'm a Lead Data Scientist @ [HSBC](https://www.hsbc.co.in/) & Data Science Mentor @ [VisionNLP](https://visionnlp.com/) 
+## Hi there, it's Shweta Pawar 👋. I'm a Data Science Mentor @ [VisionNLP](https://visionnlp.com/) 
 - 🔭 I’m currently working on creating Cognitive solutions for Enterprise problems!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate in Natural Language Processing and Speech Tech.
